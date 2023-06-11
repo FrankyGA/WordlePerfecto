@@ -74,6 +74,7 @@ public class VistaGame extends Frame
 		lblInput.setFont(font2);
 		btnOK.setFont(font2);
 		
+		// labels para letras
 		lblLetra1.setFont(font3);
 		lblLetra2.setFont(font3);
 		lblLetra3.setFont(font3);
